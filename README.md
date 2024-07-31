@@ -60,7 +60,6 @@ https://webdstudio.vercel.app/
 Here’s a detailed guide to the properties you can adjust to customize your `div` elements:
 ## Display
 
-- Paste Color Code
 - Width
 - Min-Width
 - Height
