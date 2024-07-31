@@ -3,7 +3,7 @@ WebD Studio
 </h1>
 
 
-[**Link:**](https://webdstudio.vercel.app/) https://webdstudio.vercel.app/
+[**Link:**](https://webdstudio.vercel.app/) 
 
 
 
@@ -46,6 +46,8 @@ Generated code is stored in local storage. If you clear the local storage, the s
 ## Information
 
 **Title:** WebD Studio - Customize Div Elements Easily
+
+https://webdstudio.vercel.app/
 
 **Description:** WebD Studio is a powerful tool that allows you to easily customize div elements into any shape using scroll bars. Preview changes in real-time and generate HTML/CSS code to integrate into your projects.
 
