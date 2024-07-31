@@ -1,9 +1,16 @@
-<h1 align="center" style="font-size:40px;">
+<h1 align="center" style="font-size: 5.5em;">
 WebD Studio
 </h1>
 
 <p align="center">
   <img src="https://github.com/iamtidu/WebDstudio/blob/main/assest/home.png" alt="WebD Studio" width="600">
+</p>
+<p align="center">
+  <img src="https://github.com/iamtidu/WebDstudio/blob/main/assest/color-palettes.png" alt="WebD Studio" width="600">
+</p>
+
+<p align="center">
+  <img src="https://github.com/iamtidu/WebDstudio/blob/main/assest/code-editor.png" alt="WebD Studio" width="600">
 </p>
 
 Welcome to WebD Studio! Our tool allows you to easily customize `div` elements into any shape using scroll bars. Instantly preview your changes and generate the corresponding HTML/CSS code to copy and paste directly into your projects. You can also preview your generated code; clicking on the code will open the code editor. 
