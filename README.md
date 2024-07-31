@@ -11,11 +11,10 @@ Welcome to WebD Studio! Our tool allows you to easily customize `div` elements i
 - **In-Built Code Editor:** Preview your designs in light or dark mode.
 - **Code Generation:** Generate and copy HTML/CSS code with ease.
 - **Code Management:** Save or delete your generated code.
-- **Color Picker Note:** If there is a color code in the input field, the color picker will not work. Clear the input field to use the color picker.
-- **Reset Properties:** Use the scroll bars to customize the div, and press [reset button] to reset the properties to their default values.
 
 ## Usage
-
+- **Color Picker Note:** If there is a color code in the input field, the color picker will not work. Clear the input field to use the color picker.
+- **Reset Properties:** Use the scroll bars to customize the div, and press [reset button] to reset the properties to their default values.
 - **Checkbox Requirement:** Please check the box before using. If unchecked, it will not generate the code for that section. However, the changes will still be displayed in the `div` even if the box is unchecked, but the code will not be provided.
 - **Color Palettes:** Click on any color to copy the color code to your clipboard. Note that any colors or palettes you create will not be saved after refreshing or reloading the website.
 - **Code Editor:** The recent view code is saved even if you delete the generated code. However, any data typed in the code editor will not be saved. Only the most recent view of the code is preserved. Switch between light and dark modes using the "Mode" button.
@@ -27,7 +26,7 @@ Generated code is stored in local storage. If you clear the local storage, the s
 ## Developer Details
 
 - **Name:** Udit Kumar
-- **LinkedIn:** [LinkedIn Profile](#)
+- **LinkedIn:** [https://www.linkedin.com/in/iamtidu/](#)
 - **Country:** India
 
 © 2024 WebD Studio. All rights reserved. Developed by Udit Kumar.
