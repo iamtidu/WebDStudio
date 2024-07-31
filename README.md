@@ -3,7 +3,7 @@ WebD Studio
 </h1>
 
 
-[**Link:**](https://webdstudio.vercel.app/)
+[**Link:**](https://webdstudio.vercel.app/) https://webdstudio.vercel.app/
 
 
 
