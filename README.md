@@ -55,6 +55,137 @@ https://webdstudio.vercel.app/
 
 **Author:** Udit Kumar
 
+# WebD Studio - Customize Div Elements
+
+Here’s a detailed guide to the properties you can adjust to customize your `div` elements:
+## Display
+
+- Paste Color Code
+- Width
+- Min-Width
+- Height
+
+## Border
+
+- Border Size
+- Border Style
+- Border Radius
+- Border Radius Top Left
+- Border Radius Top Right
+- Border Radius Bottom Left
+- Border Radius Bottom Right
+- Border Color
+
+## Shadow
+
+- Outside Shadow Vertical
+- Outside Shadow Horizontal
+- Outside Shadow Opacity
+- Outside Shadow Scale
+- Outside Shadow Color
+- Inside Shadow Vertical
+- Inside Shadow Horizontal
+- Inside Shadow Opacity
+- Inside Shadow Scale
+- Inside Shadow Color
+
+## Transform
+
+- Rotate (2D)
+- Scale (2D)
+- Translate X (2D)
+- Translate Y (2D)
+- RotateX (3D)
+- RotateY (3D)
+- RotateZ (3D)
+- Scale (3D)
+- Translate X (3D)
+- Translate Y (3D)
+- Translate Z (3D)
+- Transform Origin
+- Transform Style
+- Perspective
+- Perspective Origin
+- Backface Visibility
+
+## Background
+
+- Background Color
+- Background Image URL
+- Background Repeat
+- Background Position
+- Background Size
+- Background Clip
+- Background Origin
+- Background Attachment
+
+## Text
+
+- Enter Your Text Here
+- Font Family
+- Font Size
+- Color
+- Font Weight
+- Font Style
+- Font Variant
+- Line Height
+- Letter Spacing
+- Text Align
+- Text Transform
+- Text Decoration
+- Text Indent
+- Text Shadow X
+- Text Shadow Y
+- Text Shadow Blur
+- Text Shadow Color
+- Word Spacing
+- White Space
+
+## Padding
+
+- Padding Top
+- Padding Left
+- Padding Bottom
+- Padding Right
+
+## Position
+
+- Position
+- Top
+- Right
+- Bottom
+- Left
+- Z-Index
+- Float
+- Clear
+
+## Flex
+
+- Display
+- Flex Direction
+- Flex Wrap
+- Justify Content
+- Align Items
+- Align Content
+- Align Self
+- Flex Grow
+- Flex Shrink
+- Flex Basis
+- Order
+
+## Others
+
+- Visibility
+- Overflow
+- Resize
+- Filter
+- Opacity
+- Outline Style
+- Outline Width
+- Outline Color
+- Outline Offset
+
+
 ## Developer Details
 
 - **Name:** Udit Kumar
