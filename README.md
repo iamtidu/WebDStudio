@@ -58,7 +58,7 @@ https://webdstudio.vercel.app/
 ## Developer Details
 
 - **Name:** Udit Kumar
-- [ **LinkedIn:**](https://www.linkedin.com/in/iamtidu/)
+- [ **LinkedIn**](https://www.linkedin.com/in/iamtidu/)
 - **Country:** India
   
 <p align="center">
