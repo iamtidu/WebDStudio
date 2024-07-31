@@ -2,7 +2,10 @@
 WebD Studio
 </h1>
 
-- [ **Link:**](https://webdstudio.vercel.app/)
+<h2 align="center" style="font-size: 5.5em;">
+[Link:](https://webdstudio.vercel.app/)
+</h2>
+
 
 <p align="center">
   <img src="https://github.com/iamtidu/WebDstudio/blob/main/assest/home.png" alt="WebD Studio" width="600">
