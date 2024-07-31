@@ -2,17 +2,23 @@
 WebD Studio
 </h1>
 
+- [ **Link:**](https://webdstudio.vercel.app/)
+
 <p align="center">
   <img src="https://github.com/iamtidu/WebDstudio/blob/main/assest/home.png" alt="WebD Studio" width="600">
 </p>
+<p align="center">Home Page</p>
+<br/>
 <p align="center">
   <img src="https://github.com/iamtidu/WebDstudio/blob/main/assest/color-palettes.png" alt="WebD Studio" width="600">
 </p>
-
+<p align="center">Color Picker Page</p>
+<br/>
 <p align="center">
   <img src="https://github.com/iamtidu/WebDstudio/blob/main/assest/code-editor.png" alt="WebD Studio" width="600">
 </p>
-
+<p align="center">Editor Page</p>
+<br/>
 Welcome to WebD Studio! Our tool allows you to easily customize `div` elements into any shape using scroll bars. Instantly preview your changes and generate the corresponding HTML/CSS code to copy and paste directly into your projects. You can also preview your generated code; clicking on the code will open the code editor. 
 
 ## Key Features
