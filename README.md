@@ -32,5 +32,5 @@ Generated code is stored in local storage. If you clear the local storage, the s
 - **Name:** Udit Kumar
 - [ **LinkedIn:**](https://www.linkedin.com/in/iamtidu/)
 - **Country:** India
-
-© 2024 WebD Studio. All rights reserved. Developed by Udit Kumar.
+<p align="center">
+© 2024 WebD Studio. All rights reserved. Developed by Udit Kumar. </p>
