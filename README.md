@@ -1,6 +1,6 @@
-<div align="center">
-# WebD Studio
-</div>
+<h1 align="center" style="font-size:40px;">
+WebD Studio
+</h1>
 
 <p align="center">
   <img src="https://github.com/iamtidu/WebDstudio/blob/main/assest/home.png" alt="WebD Studio" width="600">
