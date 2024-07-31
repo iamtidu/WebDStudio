@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 5.5em;">
+<h1 align="center" style="font-size: 60px;">
 WebD Studio
 </h1>
 
