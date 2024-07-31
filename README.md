@@ -43,10 +43,19 @@ Welcome to WebD Studio! Our tool allows you to easily customize `div` elements i
 
 Generated code is stored in local storage. If you clear the local storage, the saved data will be removed.
 
+**Title:** WebD Studio - Customize Div Elements Easily
+
+**Description:** WebD Studio is a powerful tool that allows you to easily customize div elements into any shape using scroll bars. Preview changes in real-time and generate HTML/CSS code to integrate into your projects.
+
+**Keywords:** WebD Studio, div customization, HTML/CSS code generator, code editor, color palettes, web development tools
+
+**Author:** Udit Kumar
+
 ## Developer Details
 
 - **Name:** Udit Kumar
 - [ **LinkedIn:**](https://www.linkedin.com/in/iamtidu/)
 - **Country:** India
+  
 <p align="center">
 © 2024 WebD Studio. All rights reserved. Developed by Udit Kumar. </p>
